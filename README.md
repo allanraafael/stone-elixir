@@ -23,14 +23,9 @@
 ```shell script
   python main.py
 ```
-    
 
-    
-### Para AVALIAÇÃO do desafio basta mudar pelas listas geradas, as variáveis "items" e "emails" no arquivo main.py
+## Para AVALIAÇÃO do desafio basta mudar pelas listas geradas, as variáveis "items" e "emails" no arquivo main.py
 
-> OBS: Observe que criei duas funções (creates_random_items_list e creates_random_emails_list) para "estressar" minha solução.
->
-> Achei que o arquivo main.py ficou um pouco poluído com isso, mas foi apenas para teste.
 
 
 
